@@ -53,6 +53,7 @@ Potential employers can see my skills and design sense at a glance.
 	•	GitHub: github.com/your-username￼
 
 Feel free to reach out for collaboration or job opportunities.
+
 ✨ Thank you for visiting my portfolio! I hope it clearly demonstrates my skills and passion for web development.
  💼 Contact Me
 
